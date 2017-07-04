@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83D71328-76C5-4CC6-AE4C-97CAACD151A1}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DHT11", "DHT11\DHT11.cproj", "{DD2F6A3D-F4C7-42CE-99E6-C3B56C72C20F}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "USART", "USART\USART.cproj", "{D4252254-097A-408F-B3BF-BC1DE915E920}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TempLogger", "TempLogger\TempLogger.cproj", "{FA973AD1-1139-48B3-BB1A-4EBF96B869B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2F6A3D-F4C7-42CE-99E6-C3B56C72C20F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DD2F6A3D-F4C7-42CE-99E6-C3B56C72C20F}.Debug|AVR.Build.0 = Debug|AVR
+		{DD2F6A3D-F4C7-42CE-99E6-C3B56C72C20F}.Release|AVR.ActiveCfg = Release|AVR
+		{DD2F6A3D-F4C7-42CE-99E6-C3B56C72C20F}.Release|AVR.Build.0 = Release|AVR
+		{D4252254-097A-408F-B3BF-BC1DE915E920}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D4252254-097A-408F-B3BF-BC1DE915E920}.Debug|AVR.Build.0 = Debug|AVR
+		{D4252254-097A-408F-B3BF-BC1DE915E920}.Release|AVR.ActiveCfg = Release|AVR
+		{D4252254-097A-408F-B3BF-BC1DE915E920}.Release|AVR.Build.0 = Release|AVR
+		{FA973AD1-1139-48B3-BB1A-4EBF96B869B3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FA973AD1-1139-48B3-BB1A-4EBF96B869B3}.Debug|AVR.Build.0 = Debug|AVR
+		{FA973AD1-1139-48B3-BB1A-4EBF96B869B3}.Release|AVR.ActiveCfg = Release|AVR
+		{FA973AD1-1139-48B3-BB1A-4EBF96B869B3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
