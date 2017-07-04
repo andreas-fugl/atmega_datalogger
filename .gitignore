@@ -1,0 +1,15 @@
+
+atmel_project/DHT11/Release/dht11.d
+atmel_project/DHT11/Release/dht11.o
+atmel_project/DHT11/Release/libDHT11.a
+atmel_project/TempLogger/Release/main.d
+atmel_project/TempLogger/Release/main.o
+atmel_project/TempLogger/Release/TempLogger.eep
+atmel_project/TempLogger/Release/TempLogger.elf
+atmel_project/TempLogger/Release/TempLogger.hex
+atmel_project/TempLogger/Release/TempLogger.lss
+atmel_project/TempLogger/Release/TempLogger.map
+atmel_project/TempLogger/Release/TempLogger.srec
+atmel_project/USART/Release/libUSART.a
+atmel_project/USART/Release/usart.d
+*.o
